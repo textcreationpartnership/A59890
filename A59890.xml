@@ -1,0 +1,424 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at the Temple-Church, December 30. 1694 upon the sad occasion of the death of our gracious Queen, and published at the earnest request of several masters of the bench of both societies / by William Sherlock ...</title>
+            <author>Sherlock, William, 1641?-1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59890</idno>
+            <idno type="STC">Wing S3361</idno>
+            <idno type="STC">ESTC R9689</idno>
+            <idno type="EEBO-CITATION">12925304</idno>
+            <idno type="OCLC">ocm 12925304</idno>
+            <idno type="VID">95516</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59890)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95516)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 991:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at the Temple-Church, December 30. 1694 upon the sad occasion of the death of our gracious Queen, and published at the earnest request of several masters of the bench of both societies / by William Sherlock ...</title>
+                  <author>Sherlock, William, 1641?-1707.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The fourth edition.</edition>
+               </editionStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed by the heirs and successors of Andrew Anderson ...,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mary --  II, --  Queen of England, 1662-1694.</term>
+               <term>Church of England --  Sermons.</term>
+               <term>Bible. --  O.T. --  Psalms XXXIX, 9 --  Sermons.</term>
+               <term>Funeral sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95516:1"/>
+            <pb facs="tcp:95516:1" rendition="simple:additions"/>
+            <p>A SERMON Preached at the <hi>TEMPLE-CH<g ref="char:V">Ʋ</g>RCH, December</hi> 30. 1694. Upon the Sad Occaſion of
+the DEATH OF OUR <hi>Gracious Queen</hi> And Publiſhed at the Earneſt Requeſt of ſeveral
+Maſters of the Bench of both Societies.</p>
+            <p>By <hi>William Sherlock,</hi> D. D. Dean of St. <hi>Paul</hi>'s, Ma<g ref="char:EOLhyphen"/>ſter of the
+<hi>Temple,</hi> and Chaplain in Ordinary to His Majeſty.</p>
+            <p>
+               <hi>The Fourth Edition.</hi>
+            </p>
+            <p>
+               <hi>Edinburgh,</hi> Re-printed by the Heirs and Succeſſors of <hi>Andrew Anderſon,</hi>
+Printer to His moſt Ex<g ref="char:EOLhyphen"/>cellent Majeſty, 1695.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:95516:2"/>
+            <pb n="3" facs="tcp:95516:2"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>XXXIX PSALM 9.</hi>
+                  </bibl>
+                  <p>I was dumb, and opened not my mouth, be<g ref="char:EOLhyphen"/>cauſe thou didſt it.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HIS may be thought a very improper Text for the Feaſt of our Saviour's Birth, when our
+Mouths ought to be filled with the Prai<g ref="char:EOLhyphen"/>ſes of GOD, and ſing with the whole Quire of Angels,
+<q rend="margQuotes">Glory be to God in the higheſt, on earth peace, good will towards men,
+This indeed is that Peace, which the World cannot give, and which the World cannot take away;
+whatever the External Appearances of Providence are, here we find a ſafe Retreat, and a never
+failing Spring of Joy.</q> For,
+<q rend="margQuotes">he that ſpared not his own Son, but delivered him up for us all, how
+ſhall he not with him alſo freely give us all things? Who then ſhall ſeparat us from the
+love of Chriſt? Shall Tribulation, or Diſtreſs, or Perſecution, or Famine, or Nakedneſs,
+or Pe<g ref="char:EOLhyphen"/>ril, or Sword?</q> — Nay, in all theſe we are more than Conquerors through him that
+loved us. For I am perſwad<g ref="char:EOLhyphen"/>ed,
+<pb n="4" facs="tcp:95516:3"/>
+               <q rend="margQuotes">that neither death, nor life, nor angels, nor principali<g ref="char:EOLhyphen"/>ties, nor
+powers, nor things preſent, nor things to come, nor height, nor depth, nor any other creature,
+ſhall be able to ſeparat us from the love of God, which is in Chriſt Jeſus our Lord, 8
+<hi>Rom.</hi> 32, 35, 37, <hi>&amp;c.</hi>
+               </q> While our minds are warmed with ſuch Thoughts as
+theſe, we ſhall be able to bear up under the greateſt Tryals, if not with Chearfulneſs, yet
+at leaſt with Patience, and a quiet Submiſſion to the Will of God. And if ever there were
+occaſion for ſuch Comfor<g ref="char:EOLhyphen"/>table and Supporting Thoughts, the Divine Providence has made it too
+neceſſary at this time, to bear the loſe of an In<g ref="char:EOLhyphen"/>comparable Lady, our moſt Gracious Queen;
+whoſe Death all Good Subjects muſt lament, and I pray God forgive thoſe that do not. Such
+ſevere Providences as theſe, will teach the greateſt and moſt unbroken minds, to ſerve
+the Lord with fear, and to rejoyce with trembling. But how ſevere ſoever Providence is in
+ſome particular inſtances, the ſenſe of the Di<g ref="char:EOLhyphen"/>vine Goodneſs in the Redemption of Mankind
+by the Incarna<g ref="char:EOLhyphen"/>tion and Death of his own Son, ſhould teach us to be dumband not to open our
+mouths, becauſe they all are his doings.</p>
+            <p>In ſpeaking to which words, I ſhall 1. Inquire, what may be called the doings of the Lord?
+2. What it is to be dumb, and not to open our Mouths? 3. The force of this Argument to oblige us to
+a quiet and patient Submiſſion under the great<g ref="char:EOLhyphen"/>eſt ſufferings, That it is God's doing.</p>
+            <p n="1">1. What may be called the Doing of the Lord? This may be thought a very needleſs
+queſtion; for are there are there any Events, Good or Evil, which are not God's Doing? If we
+believe a particular Providence, we muſt anſwer, No; and yet ſome things are more peculiarly
+God's Doings, than others are, with reſpect to this preſent Argument, as Gods Do<g ref="char:EOLhyphen"/>ing it, is a
+reaſon for a quiet and patient Submiſſion to the Divine Will.</p>
+            <pb n="5" facs="tcp:95516:3"/>
+            <p>In many caſes men bring Ruine and Miſery upon them<g ref="char:EOLhyphen"/>ſelves by their own ſin and folly,
+and then they may thank themſelves for it; but have no reaſon to complain of Pro<g ref="char:EOLhyphen"/>vidence, and
+when they cannot charge Providence with their misfortunes, patience it ſelf is not properly a
+Submiſſion to God; becauſe their Sufferings are no more Gods Will, than their ſin and folly
+is.</p>
+            <p>If men deſtroy their Eſtates by profuſeneſs and prodigality, and their Bodies by
+intemperance and luſt; if ill-contracted Friendſhips, indiſcreet Bargains, or an ungovernable
+Tongue, perplex their. Affairs, and prove very troubleſome or dange<g ref="char:EOLhyphen"/>rous, all this is owing not
+merely to Providence, but to themſelves; and they muſt be contented to reap the fruit of their
+own doings, and ought to implore the Divine Goodneſs and Providence to Deliver them from the evil
+Conſequences of their own ſin and folly.</p>
+            <p>Whatever evils we ſuffer, which are not the natural or moral effects of our own ſin or
+folly, they are properly Gods Doings, as inflicted by God, either for the puniſhment of our
+ſins, or for the Tryal and exerciſe of our Virtues, or to ſerve the wiſe ends of his
+Providence in the World.</p>
+            <p>Thoſe Evils which we do not immediatly bring upon our ſelves, God inflicts on us, either by
+the miniſtry of wicked and injurious men, or by the Diſorders of Natural Cauſes, or by ſome
+ſeeming caſual and fortuitous Events; for the Acti<g ref="char:EOLhyphen"/>ons of Men, the Powers of Nature, and what
+we call Chance and Fortune, are all in the hands of God, and therefore all ſuch events are more
+or leſs his Doings.</p>
+            <p>But if we may ſay, that ſome things are more peculiarly the Cate of Providenc than others,
+Life and Death are certainly ſo; no man can be Born or Die, without the particular Or<g ref="char:EOLhyphen"/>der and
+Appointment of God: Our Saviour tells us,
+<q rend="margQuotes">Not a ſparrow falls to the ground without our Father, much leſs
+<pb n="6" facs="tcp:95516:4"/>men; and aſſures his Diſciples, that all the hairs of their head are
+numbred, and their Lives are more Sacred than their hairs.</q> Some men are of opinion, That<g ref="char:punc">▪</g>
+God has abſolutely Decreed the certain Term and Period of every mans Life; But I know no
+Foundation for this, either in Scripture or Reaſon; nor does any man believe it, but thoſe who
+ſubject all mankind, and all the Things of this World, to irreverſible Neceſſity and Fate,
+which is the ſtrength of the Atheiſtick Hypotheſis; though incautiouſly eſpouſed by
+ſome men, who are ſo far from being Atheiſt, that I hope they are very good Chriſtians. And
+therefore, I ſuppoſe, theſe Chriſtian Fataliſts, if I may ſo call them, mean no more
+than what we all own, That no Spar<g ref="char:EOLhyphen"/>row, much leſs a man, falls to the ground without our Father;
+that God not only foreknows the period of every mans Life, and by what means he ſhall Die, but
+with infinit Wiſdom and Juſtice, Orders and Appoints it, not by an abſolute and
+un<g ref="char:EOLhyphen"/>conditional Decree, but as the Wiſe Determination of a Free and Juſt Providence.</p>
+            <p>And if God have any more concernment for Nations and Commonwealths, than he has for particular
+men (as we, who can attend but a few things at once, and therefore make the matters of greateſt
+importance our more particular Care, are apt to conceive) than the Lives and Deaths of Princes
+muſt be more particularly Ordered and Determined by God: be<g ref="char:EOLhyphen"/>cauſe Nations, it may be many
+Nations and Countreys, more than their own, are concerned in the conſequence of it: and of the
+more univerſal concernment any thing is, the more we are apt to think it belongs to the Care of
+God.</p>
+            <p>For this reaſon ſome Philoſophers have confined the Provi<g ref="char:EOLhyphen"/>dence of God to the Heavens, and
+Heavenly Bodies, which have ſuch a univerſal influence on things below: or to Nations and
+Publick Societies, and to the ſeveral kinds and ſpecies of Beeings, not to particular Men or
+Creatures.</p>
+            <pb n="7" facs="tcp:95516:4"/>
+            <p>And ſo far they were in the right, that if the Divine Pro<g ref="char:EOLhyphen"/>vidence could not equally take care
+of the whole World, and of every particular Creature in it; it would certainly in the firſt
+place, take care of the great Springs of Motion. But though this be no reaſon for God's peculiar
+care of one thing more than another, becauſe his All-ſeeing Eye, and Almighty Arm, can equally
+take care of all; yet our Saviour has taught us from the worth and value of things, that God will
+certain<g ref="char:EOLhyphen"/>ly take the more care of them, and in caſe of any Competition, give the Preference to
+things of the greateſt moment. <hi>Behold the fowls of the air, for they ſow not, neither do
+they reap, nor gather into barns, yet your heavenly Father feedeth them; are ye not much better
+than they?</hi> And <hi>if God ſo clothe the graſs of the field, which to day is, and to morrow
+is caſt into the oven, ſhall he not much more clothe you, O ye of little faith?</hi> Matth.
+6.26, 30. Where from God's care of mean inferior Creatures, the Fowls of the Air, and the Graſs
+of the Field, he more ſtrongly con<g ref="char:EOLhyphen"/>cludes his care of men; and by the ſame reaſon from his
+care of particular men, we may more ſtrongly conclude his care of Kingdoms and Nations, and
+therefore of the Lives of Princes, who are the great Miniſters of his Government and Providence,
+and whoſe Lives or Deaths make ſuch a mighty Change in the Affairs of the World. So that when,
+or by what means ſoe<g ref="char:EOLhyphen"/>ver Princes die, it is Gods doing; and how ſevere ſoever we may feel it,
+<hi>We muſt be dumb, and not open our mouths, becauſe he had done it;</hi> which is the
+ſecond thing to be explained.</p>
+            <p n="2">2. What is meant by being <hi>dumb, and not opening our mouths.</hi> For this ſeems a
+very hard ſaying in the ſtrict literal ſenſe, that we muſt not complain of our
+Sufferings, when we feel 'em ſmart. Humane Nature can't bear this, we muſt feel our Sufferings,
+and when we feel them, we muſt complain: to have no ſenſe of of what we ſuffer, is
+Stupidity, not Submiſſion; it is irreve<g ref="char:EOLhyphen"/>rence for the Judgments of God, and in ſome caſes
+the moſt
+<pb n="8" facs="tcp:95516:5"/>unpardonable baſeneſs and ingratitude to men, to be uncon<g ref="char:EOLhyphen"/>cerned for the
+Death of our deareſt Friends or greateſt Patrons and Benefactors, not to pay Natures Tribute to
+their Memories in a Sigh and a Tear; not to long after them, and ſend ſome vain Wiſhes to
+call them back; not to preſerve their Idea freſh in our minds, and to think with ſome
+uneaſineſs of thoſe happy hours which their Converſation ſweetned; to part with our
+Friends, as if we ſuffered nothing by their loſs, and were as well without them, is ſo far
+from being a Vertue, that ſuch a man is uncapable of everbeing a Friend, &amp; never deſerves
+to have any; much more then, when we loſs a publick Friend and Be<g ref="char:EOLhyphen"/>nefactor, the greateſt of
+Friends and Benefactors, which is a good Princes.</p>
+            <p>Let us briefly conſider what we have loſt, in the loſs of our Gracious Queen, and try if
+we can bear the thoughts of it with<g ref="char:EOLhyphen"/>out complaining. She was the Glory of her Sex; and an Or<g ref="char:EOLhyphen"/>nament
+to the Crown ſhe wore; made truly Great by Nature, Birth, and Education. She had a large and
+capacious Mind, a quick and lively Apprehenſion, and a piercing and ſolid Judgment: She had a
+ſtrength and firmneſs of Mind beyond her Sex, and ſuch a dexterity in managing the greateſt
+Affairs, as would have become the greateſt and moſt experienced Mi<g ref="char:EOLhyphen"/>niſters. Never was there
+greater skill in Government with leſs fondneſs for it, which ſhe could take up and lay down,
+with the ſame equality and indifferency of Mind: though, I doubt, I muſt unſay that; for
+ſhe was always grieved at the occaſion of taking the Government, and as glad to reſign
+it.</p>
+            <p>Never was Majeſty better tempered with eaſineſs and ſweet<g ref="char:EOLhyphen"/>neſs. She knew how to be
+familiar, without making her ſelf cheap, and to condeſcend without meanneſs. She had all the
+greatneſs of Majeſty, with all the Vertues of Converſation; and knew very well what became
+her Table, and what became the Council-Board.</p>
+            <pb n="9" facs="tcp:95516:5"/>
+            <p>She underſtood her Religion, and loved it, and practiſed it<g ref="char:punc">▪</g> and was the greateſt
+Example of the Age, of a conſtant, regular, unaffected Devotion, and of all the eminent Vertues
+of a Chriſtian Life. In the midſt of all the great Affairs of State, ſhe would rather ſpare
+time from her ſleep, than from her Prayers, where ſhe always appeared with that great
+com<g ref="char:EOLhyphen"/>poſure and ſeriouſneſs of Mind, as if her Court had been a Nun<g ref="char:EOLhyphen"/>nery, and ſhe had had
+nothing elſe to do in the World.</p>
+            <p>In all the Eaſe &amp; Proſperity of Fortune, ſhe had that tender<g ref="char:EOLhyphen"/>neſs &amp;
+compaſſion for thoſe who ſuffered, which ſufferings them<g ref="char:EOLhyphen"/>ſelves cannot teach meaner
+Perſons. She was Charitable to the utmoſt of her Power, amidſt all the Expenſes of War and
+Go<g ref="char:EOLhyphen"/>vernment, and when a proper Object was preſented to her, was always pleaſed when ſhe could
+grant their Requeſts, and very uneaſie to deny.</p>
+            <p>In ſhort, her greateſt and moſt implacable enemies, (for Ver<g ref="char:EOLhyphen"/>tue it ſalf will meet with
+Enemies in this World) had no other Fault to charge her with, but her Throne; which is the only
+thing, for which moſt other Princes are valuable. She aſcend<g ref="char:EOLhyphen"/>ed the Throne indeed before ſhe
+deſired it, but was thruſt into it, not by an haſty Ambition, but to ſave a ſinking
+Church and Kingdom. And I hope <hi>England</hi> will always have reaſon to ſay, that an empty
+Throne, could never have been filled with a nobler Pair.</p>
+            <p>But though the neceſſary abſence of the King, to give check to the Progreſs of a
+powerful and inſulting Monarch, engaged her more than ſhe deſired in State Affairs, yet the
+promoting of True Religion, and the ſervice of the Church of <hi>England,</hi> [the greateſt
+and beſt Nurſery of it, ſince the Apoſtolick Age,] was her conſtant and natural Care.
+This her Thoughts were full of, and ſhe had formed great and noble Deſigns, had ſhe out-lived
+the Difficulties and Expenſes of War; and been at leaſure to attend the peaceful Arts of
+Government.</p>
+            <pb n="10" facs="tcp:95516:6"/>
+            <p>I have reaſon to ſay this, from thoſe frequent Intimations I have had from our late
+admirable Primate, who had great De<g ref="char:EOLhyphen"/>ſigns himſelf to ſerve the Chriſtian Religion, and the
+Church of <hi>England,</hi> in its trueſt Intereſts; and had inſpired their Ma<g ref="char:EOLhyphen"/>jeſties; and
+particularly the Queen, who had more leiſure for ſuch Thoughts, with the ſame great and pious
+Deſigns: it may be no Church-man ever had, I am ſure not more deſervedly, a greater
+Intereſt in his Prince's Favour; and the great uſe he made of it, was to do publick Service to
+Religion; and, what<g ref="char:EOLhyphen"/>ever ſome men might ſuſpect to the Church of <hi>England,</hi> though it
+may be not perfectly in their way: and the greateſt Fault I know he had, was, that ſome envious
+and ambitious men could not bear his Greatneſs, which he himſelf never courted, nay, which he
+induſtriouſly avoided.</p>
+            <p>Before this, all <hi>England</hi> knew and owned his Worth; and had it been put to the Poll,
+there had been vaſt Odds on his ſide, that he would have been voted into the See of
+<hi>Canterbury;</hi> for no man had ever a clearer and brighter Reaſon, a truer Judgment, a more
+eaſie and happy Expreſſion, nor a more in<g ref="char:EOLhyphen"/>flexible fearleſs Honeſty: he was a true and
+hearty Friend, and was a true Friend wherever he profeſſed to be ſo: though he had many
+Enemies at laſt, he took care to make none. He was oblidging to all men; and though he could not
+eaſily part with a Friend, he could eaſily forgive an Enemy, as that Bundel of Libels
+witneſſes, which was found among his other Papers, with this Inſcription: <hi>Theſe are
+Libels; I pray God forgive them, I do.</hi>
+            </p>
+            <p>But I cannot give you the juſt Character of this Great Man now; but what I have already
+ſaid, I confeſs is an Excurſion, which I hope you will pardon to the Paſſion of an old
+Friend, and learn from two great Examples, that neither the greateſt In<g ref="char:EOLhyphen"/>nocence, Vertue, or
+Merit, can defend, either Crowned or Mitred Heads from the laſh of ſpiteful and envenomed
+Tongues. But what a loſs has Religion and the Church of
+<pb n="11" facs="tcp:95516:6"/>
+               <hi>England,</hi> in ſuch a critical Time, in the Death of ſuch a Queen, and
+ſuch a Prelate! I pray God make up this Loſs.</p>
+            <p>In a word, That great Paſſion which afflicts and oppreſſes our good King, gives an
+unexceptionable Teſtimony to the incomparable Worth of our deceaſed <hi>Queen:</hi> The too
+ſevere and viſible Effects of it, ſhew, that it is not an ordinary, nor a diſſembled
+Paſſion: Nor is it an ordinary thing, for a Prince of ſo great a Mind, who can look the
+moſt formidable Dan<g ref="char:EOLhyphen"/>gers, and Death it ſelf, in the face, without fear; whom all the Powers of
+<hi>France</hi> cannot make look pale or tremble; to ſink and faint, and to feel all the Agonies
+of Death in the dying Looks of a Beloved Conſort. All Story cannot furniſh us with many.
+Examples of ſuch ſoft and tender Paſſions, in ſuch a warlike and fearleſs Mind; and
+what but a mighty Vertue could ſo charm a Prince, as to forget his natural Con<g ref="char:EOLhyphen"/>ſtancy and
+Reſolution? I'm ſure, though we pay very dear for the Experiment in the loſs of an excellent
+<hi>Queen,</hi> we have ſo much the more reaſon to think our ſelves happy in a <hi>King;</hi>
+for a due mixture and temperament of ſuch fearleſs Courage and Bravery, and ſuch tender
+Paſſions, is the moſt perfect Com<g ref="char:EOLhyphen"/>poſition of an excellent Prince.</p>
+            <p>And now, it may be, you will tell me, that I have taken great Pains to confute my Text, and that
+I have done it e<g ref="char:EOLhyphen"/>ffectually; for we ought not to be dumb, but may very juſt<g ref="char:EOLhyphen"/>ly complain of ſuch
+a loſs as this.</p>
+            <p>This I readily grant, That we may complain of ſuch a loſs; but this is no confutation of my
+Text, We may complain, and give Eaſe and Vent to our Sorrows by ſuch Complaints, while we do
+not complain againſt God, and accuſe him fool<g ref="char:EOLhyphen"/>iſhly. To ſubmit to the Will of God, which is
+here expreſt by being <hi>Dumb, and not opening our Mouths,</hi> does not ſigni<g ref="char:EOLhyphen"/>fie, not to
+feel our Loſſes and Sufferings, or not to complain of them; but not to reproach the Divine
+Providence, nor
+<pb n="12" facs="tcp:95516:7"/>to caſt off our Hope and Truſt in God? <hi>Job</hi> felt his Suffe<g ref="char:EOLhyphen"/>rings,
+and complained of them in as moving and tragical ex<g ref="char:EOLhyphen"/>preſſions, as any other Man could, and yet
+is propoſed to us, as an Example of admirable Patience, becauſe he did not <hi>Charge God
+fooliſhly,</hi> nor caſt off his Hope in him.</p>
+            <p>This we never can have any reaſon for; for whatever we ſuffer, it is a wiſe and merciful
+Providence which inflicts it: But yet Mankind are very apt, when they ſuffer hard things, either
+to deny a Providence, or which is more abſurd, and un<g ref="char:EOLhyphen"/>reaſonable, to reproach; for if there be
+a God, he is Wiſe, and Good, and Merciful, and Juſt, which is the Notion all Mankind have of
+God; and if this God governs the World, all Events are ordered with Wiſdom, Juſtice and
+Goodneſs; and all thinking Men, in cool and ſober Thoughts, will be a<g ref="char:EOLhyphen"/>ſhamed to quarrel with
+ſuch a providence.</p>
+            <p>But yet we are very apt to ask Queſtions, which we cannot eaſily anſwer, and then to make
+our own Ignorance an Ob<g ref="char:EOLhyphen"/>jection againſt the Divine Providence.</p>
+            <p>As in the Caſe before us of the ſudden and untimely Death of an excellent Princeſs, who
+had Strength and Vigour of Age, which promiſed a much longer Life, and who would certainly have
+done great Good to the World, as long as ſhe had lived; but is cut off in the Vigour and Strength
+of Age, and all her Thoughts, even all her great and excellent De<g ref="char:EOLhyphen"/>ſigns of doing Good to the
+World, periſh with her; while Tyrants and Oppreſſors live to be the Plagues and Scourges of
+Mankind.</p>
+            <p>Now though we do not know the particular Reaſons of ſuch Providences, yet it is eaſie to
+frame ſome general Anſwers, which may ſatisfie all the Friends of Providence.</p>
+            <p>If the Objection relates to our ſelves, who ſuffer by this loſs, there is a very plain
+Anſwer to it, but a very terrible one; That God is Angry with us, and by the untimely Death of an
+
+<pb n="13" facs="tcp:95516:7"/>excellent Proceſs, who made it her whole Study and De<g ref="char:EOLhyphen"/>ſign to do us Good,
+threatens his Judgments againſt us, if we do not take Care to prevent them by a timely
+Repentance.</p>
+            <p>If the Objection relates only to the untimely Death of an excellent Princeſs, that ſhe
+ſhould ſo ſuddenly be ſnatched away from the Joys and Pleaſures of a Throne; this is no
+Objection at all, at leaſt not an Objection fit for Chriſtians to make: For can we think, that
+the greateſt and moſt hap<g ref="char:EOLhyphen"/>py Monarch, loſes any thing by the Exchange, if he be tran<g ref="char:EOLhyphen"/>ſlated
+from Earth to Heaven? That the Joys of Paradiſe are not greater than a Crown? Our good
+<hi>Queen</hi> did not think ſo, who knew what a Earthly Crown meant, but was willing to part
+with it for Heaven; who ſaw Death approach<g ref="char:EOLhyphen"/>ing without fear, and prepared to receive its Stroke
+with ſuch calmneſs and ſedateneſs of Mind, as nothing could give but an innocent
+Conſcience, and much greater Hopes.</p>
+            <p>And yet as for your ſelves, though we muſt acknowledge that we have received a very great
+Loſs, in the Death of an ex<g ref="char:EOLhyphen"/>cellent <hi>Queen,</hi> yet we have no reaſon to quarrel at
+Provi<g ref="char:EOLhyphen"/>dence, while God preſerves our King to go in and out be<g ref="char:EOLhyphen"/>fore us. We had indeed perpetual
+Day; and no ſooner was one Sun withdrawen, but another aſcended our Horizon, with equal
+Luſtre and Brightneſs: This was a peculiar Happineſs which we never had before, and which the
+Neceſſity of our Affairs required now; but though God has cut us ſhort in this, we have a
+King ſtill, the Terror of <hi>France,</hi> and the Protector of <hi>Europe;</hi> a King, whom
+Affection as well as Blood has Naturalized to us; who loves our Nation and our Church, which he has
+once delivered, and God grant he may live long to ſettle and protect both. We have no reaſon to
+fear our E<g ref="char:EOLhyphen"/>nemies, either at home or abroad, while a Prince is at the Helm, who wants neither
+Counſel nor Courage; eſpecially if we follow that noble Example, which the Two Houſes of
+<pb n="14" facs="tcp:95516:8" rendition="simple:additions"/>Parliament have ſet us, to give him ſuch freſh Aſſurances of
+our Fidelity, as may ſtrengthen his Hands againſt his and our E<g ref="char:EOLhyphen"/>nemies Abroad, and make him
+eaſie and ſafe at Home.</p>
+            <p>To conclude, this is God's doing, and it becomes us to be dumb, and not to open our Mouthes,
+becauſe he has done it: He is the Soveraign and Unacountable Lord of the World; who ſhal ſay
+unto him, What doſt thou? Life and Death are in his Hands; the Fates of Princes and Kingdoms.
+That he has done it, it ſhould be a ſufficient Reaſon to us to ſubmit, be<g ref="char:EOLhyphen"/>cauſe though he
+does things great and wonderful, and beyond our Underſtanding, yet he never does any thing but
+what is wiſe and good: This I'm ſure is the moſt effectual Way to turn even the ſevereſt
+Ju<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gements into Bleſſings, to reverence God,
+and to humble our ſelves under his mighty Hand, and to implore his Mercy, to repair thoſe
+Breaches he has made up<g ref="char:EOLhyphen"/>on us. We muſt not complain of Providence; but we may make our Complaints
+to God, and be the more importunat in our Prayers for the Preſervation of our King. The Death of
+our Excellent Queen both calls for, and will juſtifie and re<g ref="char:EOLhyphen"/>commend ſuch humble Importunities;
+and the Preſervation of our King, will, in a great meaſure, make up this Loſs to us;
+<hi>Which God of his infinite Mercy grant, through our Lord Jeſus Chriſt; to whom with the
+Father, and the Holy Ghoſt, be Ho<g ref="char:EOLhyphen"/>nour, Glory, and Power, now and for ever,</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:95516:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
